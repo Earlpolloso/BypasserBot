@@ -7,7 +7,7 @@ const { REST } = require('@discordjs/rest');
 const { Routes } = require('discord-api-types/v9');
 const axios = require('axios')
 
-const token = 'MTI1NjQ2MzkxOTcwMzEzNDI3MA.G2WP0E.63nUUQRlhzztz85k6kSdArzbCoVR8r7fbSCBfE'; //the bots token
+const token = 'MTI1NjQ2MzkxOTcwMzEzNDI3MA.GuH3Qn.ye4vTL9csBqzgiMI-ZzpTNO8YMH-fEdumKqlv8'; //the bots token
 const clientId = '1256463919703134270'; //the bots client id// user id
 const advertise = true; //if you want it to send server invite after command ran keep it true if not keep it false
 const serverinvite = "https://discord.gg/52C8MtW54M"; //server invite for when command ran it replies with server invite
