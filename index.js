@@ -7,11 +7,11 @@ const { REST } = require('@discordjs/rest');
 const { Routes } = require('discord-api-types/v9');
 const axios = require('axios')
 
-const token = 'TOKEN'; //the bots token
-const clientId = 'CLIENTID'; //the bots client id// user id
-const advertise = false; //if you want it to send server invite after command ran keep it true if not keep it false
-const serverinvite = "sever invite"; //server invite for when command ran it replies with server invite
-const madeby = "USERNAME"; //for embed like "Made By {name}"
+const token = 'MTI1NjQ2MzkxOTcwMzEzNDI3MA.G2WP0E.63nUUQRlhzztz85k6kSdArzbCoVR8r7fbSCBfE'; //the bots token
+const clientId = '1256463919703134270'; //the bots client id// user id
+const advertise = true; //if you want it to send server invite after command ran keep it true if not keep it false
+const serverinvite = "https://discord.gg/52C8MtW54M"; //server invite for when command ran it replies with server invite
+const madeby = "Earl"; //for embed like "Made By {name}"
 const apikey = "E99l9NOctud3vmu6bPne"; //api key using stickx. only change when key is invalid https://discord.gg/AqXmxKV8s8 new key in that server
 
 const commands = [
